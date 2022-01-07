@@ -9,11 +9,6 @@ public class SongservicesApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SongservicesApplication.class, args);
 	}
-<<<<<<< HEAD
-	//hello  world
-	
-	
-=======
->>>>>>> refs/remotes/origin/dev
+
 
 }
