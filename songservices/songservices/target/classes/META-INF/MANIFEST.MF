@@ -1,6 +1,11 @@
 Manifest-Version: 1.0
 Implementation-Title: songservices
 Implementation-Version: 0.0.1-SNAPSHOT
-Build-Jdk-Spec: 1.8
+Built-By: Training1
+Implementation-Vendor-Id: com.mskmusik
+Build-Jdk: 1.8.0_311
+Implementation-URL: http://projects.spring.io/spring-boot/songservices
+ /
 Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 
