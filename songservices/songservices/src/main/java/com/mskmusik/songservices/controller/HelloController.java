@@ -1,5 +1,5 @@
 package com.mskmusik.songservices.controller;
 
-public class HellController {
+public class HelloController {
 
 }
